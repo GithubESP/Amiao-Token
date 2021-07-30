@@ -15,6 +15,7 @@ function setup() {
 }
 
 function draw() {
+  noSmooth()//除掉模糊 好爽
   background(50);//畫框上色360 360 360
   image(face, 0, 0, width, height);
   scale(1,1.4)
