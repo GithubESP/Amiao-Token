@@ -1,4 +1,4 @@
-let TokenID = 'PatXioAlex';
+let TokenID = 'Amiaotoken';
 let face;
 let hair;
 
